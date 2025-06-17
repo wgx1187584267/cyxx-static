@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b60ec"],{"1c15":function(n,e,c){"use strict";c.r(e);var t=function(){var n=this,e=n.$createElement,c=n._self._c||e;return c("div",[n._v(" Monitor ")])},o=[],r={name:"Monitor"},i=r,u=c("0c7c"),a=Object(u["a"])(i,t,o,!1,null,"6874330b",null);e["default"]=a.exports}}]);
